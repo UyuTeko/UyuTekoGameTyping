@@ -1,5 +1,5 @@
 window.ranking = [
-  { name: 'うゆり＆てこ', score: 3144 },
+  { name: 'うゆり＆てこ', score: 3685 },
   { name: 'にこに昆布', score: 92 },
   { name: 'Y.I（多分本物）', score: 1517 },
   { name: 'ブルーアーカイブ3世', score: 335 },
