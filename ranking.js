@@ -6,7 +6,8 @@ window.ranking = [
   { name: '魔王たびま', score: 1471 },
   { name: 'Mr.サハカズ', score: 723 },
   { name: 'ありがとうございました。', score: 3592 },
-  { name: 'カナタ&千姫', score: 1613 }
+  { name: 'カナタ&千姫', score: 1613 },
+  { name: '竜真', score: 1319 }
 ]
 
 window.ranking.sort((a, b) => b.score - a.score);
