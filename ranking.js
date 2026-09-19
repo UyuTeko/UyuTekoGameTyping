@@ -7,7 +7,7 @@ window.ranking = [
   { name: 'Mr.サハカズ', score: 723 },
   { name: 'ありがとうございました。', score: 3592 },
   { name: 'カナタ&千姫', score: 1613 },
-  { name: '竜真', score: 1319 },
+  { name: '竜真', score: 1520 },
   { name: '飛香', score: 2601 },
   { name: 'robotomizuki', score: 1164 },
   { name: 'Axeuo🔥『ハック』', score: 1240 }
