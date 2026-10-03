@@ -11,7 +11,8 @@ window.ranking = [
   { name: '飛香', score: 2601 },
   { name: 'robotomizuki', score: 1164 },
   { name: 'Axeuo🔥『ハック』', score: 1272 },
-  { name: 'ルイ', score: 2954 }
+  { name: 'ルイ', score: 2954 },
+  { name: 'たっちゃん', score: 1884 }
 ]
 
 window.ranking.sort((a, b) => b.score - a.score);
